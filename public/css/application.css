@@ -1,0 +1,7 @@
+.container{
+  width: 50%;
+  border: 1px solid black;
+  text-align: center;
+  margin: auto;
+  /*background-image: url("https://www.harrysfresh.com/wp-content/uploads/2014/12/FreshFarmersMarket.jpg");*/
+}
